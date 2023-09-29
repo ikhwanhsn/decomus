@@ -1,5 +1,5 @@
 # Bootcamp Fullstack Developer (DECOMUS)
 
-Name: Ikhwanul Husna
+Fullname: Ikhwanul Husna
 
 Class: Alpha
